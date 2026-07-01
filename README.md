@@ -1,3 +1,7 @@
-title: Café Lumière Landing Page
-description: Landing page estática para la cafetería de especialidad en La Línea de la Concepción.
+---
+title: "Café Lumière Landing Page"
+description: "Landing page para la cafetería de especialidad Café Lumière en La Línea de la Concepción."
+colorFrom: red
+colorTo: yellow
 sdk: static
+---
